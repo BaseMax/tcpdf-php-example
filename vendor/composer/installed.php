@@ -3,7 +3,7 @@
         'name' => 'basemax/tcpdf-php-example',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'a382fa1c087a037afe668fd531e407cdd3da89a1',
+        'reference' => 'a35eb7c49fb9bbbe6390c935d1af3d1d7de382dc',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'basemax/tcpdf-php-example' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'a382fa1c087a037afe668fd531e407cdd3da89a1',
+            'reference' => 'a35eb7c49fb9bbbe6390c935d1af3d1d7de382dc',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

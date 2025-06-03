@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
 
-use TCPDF;
+// use TCPDF;
 
 $html = <<<HTML
 <h1 style="color:#2E86C1; font-size:24px;">صورتحساب فروش</h1>
