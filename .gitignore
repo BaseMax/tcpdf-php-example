@@ -1,3 +1,4 @@
 *.rar
 *.zip
-vendor
+composer.phar
+#vendor
