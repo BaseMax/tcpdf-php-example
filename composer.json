@@ -1,0 +1,26 @@
+{
+  "name": "basemax/tcpdf-php-example",
+  "description": "An example project demonstrating how to use TCPDF with Persian fonts and RTL layout",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Max Base (Ali)",
+      "email": "maxbasecode@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.5",
+    "tecnickcom/tcpdf": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "scripts": {
+    "start": "php generate-pdf.php"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
